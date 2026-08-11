@@ -1,0 +1,6 @@
+       IDENTIFICATION DIVISION.
+           PROGRAM-ID. HELLO-WORLD.
+
+       PROCEDURE DIVISION.
+           DISPLAY "OLA, MUNDO COBOL!".
+           STOP RUN.
