@@ -8,5 +8,6 @@
        PROCEDURE DIVISION.
            DISPLAY "Digite seu nome: ".
            ACCEPT NOME-USUARIO.
-           DISPLAY "Ola, " FUNCTION TRIM(NOME-USUARIO) "! Bem vindo ao COBOl!".
+           DISPLAY "Ola, " FUNCTION TRIM(NOME-USUARIO) "! Bem vindo ao
+           COBOl!".
            STOP RUN.
