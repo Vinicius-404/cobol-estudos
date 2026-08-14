@@ -15,8 +15,8 @@ cobc -x arquivo.cob
 - [x] Aula 02 - Entrada de Dados
 - [x] Aula 03 - Calcular Valores
 - [x] Aula 04 - Leitura de Arquivos
-- [ ] Aula 05 - Quebra em Labels
-- [ ] Aula 06 - Gravar Dados
+- [x] Aula 05 - Quebra em Labels
+- [x] Aula 06 - Gravar Dados
 - [ ] Aula 07 - Ler Arquivos CSV
 - [ ] Aula 08 - Arquivos Relativos
 - [ ] Aula 09 - Arquivos Indexados
